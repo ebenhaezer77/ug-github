@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-print(Hello kasir)
-=======
 print(Aplikai kasir)
->>>>>>> revisi-main
